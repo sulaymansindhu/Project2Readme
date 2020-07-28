@@ -28,10 +28,6 @@ This plugin allowed me to analyse the traffic to the website as well as giving s
 
 
 
-
-
-
-
 My Website:
 
 https://sulaymanresume.azurewebsites.net/
