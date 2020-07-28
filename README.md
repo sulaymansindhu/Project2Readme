@@ -26,7 +26,7 @@ This was a great plugin that made the process of changing and editing pages easi
 
 RankMath
 
-This plugin allowed me to analyse and increase the traffic to the website as well as giving suggestions on improving my webiste. I used this in conjuction with the Yoast SEO plugin. After research and reading through reviews, I learnt that this website was pretty good in the features it gave as a SEO plugin.
+This plugin allowed me to analyse and increase the traffic to the website as well as giving suggestions on improving my webiste. I used this in conjuction with the Yoast SEO plugin. After research and reading through reviews, I learnt that this website was pretty good in the features it gave as a SEO plugin. This plugion required me to install, activate, and then put in the details of my website. i was then given the option to toggle on/off many features such as SEO Analysis, Link Counter, Structured Data
 
 
 
